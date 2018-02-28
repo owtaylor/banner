@@ -1,0 +1,9 @@
+compose:
+    modules:
+    - banner:f26
+flatpak:
+    id: com.cedar_solutions.Banner
+    branch: stable
+    command: banner
+    tags: []
+    finish-args: ''
