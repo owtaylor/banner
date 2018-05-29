@@ -1,6 +1,6 @@
 compose:
     modules:
-    - banner:f26
+    - banner:master
 flatpak:
     id: com.cedar_solutions.Banner
     branch: stable

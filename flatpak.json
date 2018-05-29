@@ -1,0 +1,10 @@
+{
+        "id": "com.cedar_solutions.Banner",
+        "version": "1.3.4-4.fc26",
+        "runtime": "org.fedoraproject.MinimalPlatform",
+        "runtime-version": "28",
+        "sdk": "org.fedoraproject.Sdk",
+        "command": "banner",
+        "tags": [],
+        "finish-args": []
+}

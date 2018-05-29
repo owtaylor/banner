@@ -9,9 +9,9 @@ data:
         module: [ MIT ]
     dependencies:
         buildrequires:
-            minimal-runtime: f26
+            minimal-runtime: master
         requires:
-            minimal-runtime: f26
+            minimal-runtime: master
     profiles:
         default:
             rpms:
