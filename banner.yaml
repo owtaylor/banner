@@ -20,4 +20,4 @@ data:
         rpms:
             banner:
                 rationale: Core application
-                ref: 05b2167327d70e654adf1330eb6699ead3baad1c
+                ref: master
