@@ -7,3 +7,5 @@ flatpak:
     command: banner
     tags: []
     finish-args: ''
+platforms:
+    only: ['x86_64']
